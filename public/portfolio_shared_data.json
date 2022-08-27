@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Mahmoud Qunbor",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Student at ASAC and Codefellows" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/modesq",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
-          "url": "https://www.instagram.com",
+          "url": "https://www.instagram.com/qunbor_/?hl=en",
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myPfp.jpg"
     },
     "skills": {
       "icons": [
